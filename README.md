@@ -1,5 +1,5 @@
 # LeetCode Solution
-    My answers in LeetCode Online Judge
+    My Solutions in LeetCode Online Judge
 
 ## Solution list (Java)
 + #001 Two Sum
