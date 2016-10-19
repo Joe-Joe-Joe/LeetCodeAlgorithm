@@ -1,4 +1,4 @@
-# LeetCode Algorithm Solution
+# LeetCode Solution
     My answers in LeetCode Online Judge
 
 ## Solution list (Java)
