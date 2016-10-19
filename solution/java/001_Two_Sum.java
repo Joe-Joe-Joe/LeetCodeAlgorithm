@@ -20,7 +20,7 @@ public class Solution {
     }
 }
 
-//structure description：java.util.HashMap<K, V>
+//structure description:java.util.HashMap<K, V>
 //public class HashMap<K, V> extends AbstractMap<K, V> implements Map<K, V>, Cloneable, Serializable {
 //    
 //   //Returns true if this map contains a mapping for the specified key.
