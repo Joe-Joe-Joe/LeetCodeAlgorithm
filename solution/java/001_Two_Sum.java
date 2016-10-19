@@ -1,4 +1,6 @@
-'''Java
+//Problem description:
+//Given an array of integers, return indices of the two numbers such that they add up to a specific target.
+
 public class Solution {
     public int[] twoSum(int[] nums, int target) {
         
@@ -16,4 +18,3 @@ public class Solution {
         throw new IllegalArgumentException("no two sum solution");
     }
 }
-'''
