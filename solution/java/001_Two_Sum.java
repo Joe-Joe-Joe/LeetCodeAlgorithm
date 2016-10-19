@@ -20,10 +20,12 @@ public class Solution {
     }
 }
 
-//structure description:java.util.HashMap<K, V>
+//-----------------------------------------------------------------------------------
+//==============================java.util.HashMap<K, V>==============================
+//-----------------------------------------------------------------------------------
 //public class HashMap<K, V> extends AbstractMap<K, V> implements Map<K, V>, Cloneable, Serializable {
 //    
-//   //Returns true if this map contains a mapping for the specified key.
+//    //Returns true if this map contains a mapping for the specified key.
 //    boolean containsKey(Object key){};
 //    
 //    //Returns true if this map maps one or more keys to the specified value

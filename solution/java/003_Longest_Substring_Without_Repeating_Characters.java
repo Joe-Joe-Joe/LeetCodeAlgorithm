@@ -27,4 +27,26 @@ public class Solution {
     }
 }
 
-//structure description:
+//--------------------------------------------------------------------------------
+//==============================java.util.HashSet<E>==============================
+//--------------------------------------------------------------------------------
+//public class HashSet<E> extends AbstractSet<E> implements Set<E>, Cloneable, Serializable {
+//
+//	//Adds the specified element to this set if it is not already present.
+//	boolean add(E e){};
+//	
+//	//Returns true if this set contains the specified element.
+//	boolean contains(Object o){};
+//	
+//	//Returns true if this set contains no elements.
+//	boolean isEmpty(){};
+//	
+//	//Removes the specified element from this set if it is present.
+//	boolean remove(Object o){};
+//	
+//	//Returns the number of elements in this set (its cardinality).
+//	int size(){};
+//	
+//	//Returns an iterator over the elements in this set.
+//	Iterator<E> iterator(){};
+//}
