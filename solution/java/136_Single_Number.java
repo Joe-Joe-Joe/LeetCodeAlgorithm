@@ -1,10 +1,10 @@
-//Problem describtion:
+//Problem description:
 //Given an array of integers, every element appears twice except for one.
 //Find that single one.
 //Note:
 //Your algorithm should have a linear runtime complexity. Could you implement it without using extra memory? 
 
-//extra memory O(n) && linear runtime
+//extra memory O(n) && linear runtime.
 public class Solution {
     public int singleNumber(int[] nums) {
         
@@ -33,7 +33,7 @@ public class Solution {
     }
 }
 
-//extra memory o(1) && linear runtime
+//extra memory o(1) && linear runtime.
 public class Solution {
     public int singleNumber(int[] nums) {
         
