@@ -48,7 +48,8 @@ public class Solution {
             temp ^= nums[i];
         }
         
-        temp &= -temp;
+        temp &= -temp;     //(9 & -9) = 1
+        
         for(int i = 0; i < nums.length; i++) {
             if((temp & nums[i]) != 0) {
                 res[0] ^= nums[i];
