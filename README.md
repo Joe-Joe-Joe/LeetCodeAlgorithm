@@ -8,6 +8,7 @@
 + #018 4Sum
 + #002 Add Two Numbers
 + #003 Longest Substring Without Repeating Characters
++ #088 Merge Sorted Array
 + #136 Single Number
 + #137 Single Number II
 + #260 Single NUmber III
