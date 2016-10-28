@@ -3,6 +3,9 @@
 
 ## Solution list (Java)
 + #001 Two Sum
++ #015 3Sum
++ #016 3Sum Closest
++ #018 4Sum
 + #002 Add Two Numbers
 + #003 Longest Substring Without Repeating Characters
 + #136 Single Number
