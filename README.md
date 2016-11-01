@@ -13,15 +13,16 @@
 + #003 Longest Substring Without Repeating Characters
 + #279 Perfect Squares
 
-### Series Problems
+### Hard Problems
 
-###### K Sum
+### Series Problems
+##### K Sum
 + #001 Two Sum
 + #015 3Sum
 + #016 3Sum Closest
 + #018 4Sum
 
-###### Single Number
+##### Single Number
 + #136 Single Number
 + #137 Single Number II
 + #260 Single NUmber III
