@@ -13,7 +13,7 @@
 + #003 Longest Substring Without Repeating Characters
 + #279 Perfect Squares
 
-### A series problems
+### Series Problems
 
 ###### K Sum
 + #001 Two Sum
