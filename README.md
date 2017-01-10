@@ -4,6 +4,7 @@
 ## Solution list (Java)
 
 ### Easy Problems
++ #001 Two Sum
 + #002 Add Two Numbers
 + #088 Merge Sorted Array
 + #217 Contains Duplicate
@@ -11,6 +12,12 @@
 
 ### Medium Problems
 + #003 Longest Substring Without Repeating Characters
++ #015 3Sum
++ #016 3Sum Closest
++ #018 4Sum
++ #136 Single Number
++ #137 Single Number II
++ #260 Single NUmber III
 + #279 Perfect Squares
 
 ### Hard Problems
