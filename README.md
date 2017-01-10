@@ -8,6 +8,7 @@
 + #002 Add Two Numbers
 + #088 Merge Sorted Array
 + #217 Contains Duplicate
++ #412 Fizz Buzz
 + #461 Hamming Distance
 
 
